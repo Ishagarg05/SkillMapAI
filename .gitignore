@@ -1,0 +1,11 @@
+# Ignore environment and secrets
+.env
+serviceAccountKey.json
+
+# Ignore Streamlit settings
+.streamlit/
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
